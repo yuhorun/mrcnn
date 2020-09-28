@@ -1,0 +1,14 @@
+pylint<2.4
+astroid<2.3
+numpy==1.16
+scipy
+Pillow
+cython
+matplotlib==2.2.5
+scikit-image
+tensorflow-gpu==1.7.0
+keras==2.1.5
+opencv-python
+h5py
+imgaug
+IPython[all]

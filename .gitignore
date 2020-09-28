@@ -1,0 +1,10 @@
+## 数据集  格式为：dataset/surgery/{train/{JPEGImages/*.jpg,via_region_data.json}, val/JPEGImages/*.jpg,via_region_data.json}}
+dataset/surgery/train/JPEGImages/*
+dataset/surgery/val/JPEGImages/*
+
+## 模型  mask_rcnn_surgery_0060.h5
+logs/*
+
+## out and test
+out/*
+test/*
