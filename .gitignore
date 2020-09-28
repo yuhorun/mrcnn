@@ -8,3 +8,6 @@ logs/*
 ## out and test
 out/*
 test/*
+
+## anotation
+instance_segmentation/data_annotated/*
